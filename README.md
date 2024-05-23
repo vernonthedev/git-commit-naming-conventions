@@ -23,7 +23,7 @@
 #Docs: Comment goes here
 ```
 ### feat: 
-> A new feature<br>
+> A new feature has been added<br>
 ```
 #Feat: Comment goes here
 ```
