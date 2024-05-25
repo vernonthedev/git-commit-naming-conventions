@@ -40,7 +40,7 @@
 ### refactor: 
 > A code change that neither fixes a bug nor adds a feature<br>
 ```
-#Refactor: Comment goes here
+#Refactor: Comment goes here for refactoring
 ```
 ### revert: 
 > Revert something<br>
